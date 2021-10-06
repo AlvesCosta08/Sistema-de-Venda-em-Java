@@ -19,5 +19,9 @@ public class ClientesDAO {
     public void alterarClientes(){
         
     }
+    // Metodo excluirClientes
+    public void excluirClientes(){
+        
+    }
     
 }
